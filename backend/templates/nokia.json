@@ -1,0 +1,18 @@
+{
+    "unclassifiedLocationTerms": [],
+    "classifiedLocationTerms": [
+        {
+            "type": "CITY",
+            "index": 0,
+            "classified": true,
+            "code": "FI_PIRKANMAA_NOKIA",
+            "shortName": "Nokia",
+            "parentCountryCode": "FI",
+            "parentRegionCode": "FI_PIRKANMAA",
+            "parentRegionName": "Pirkanmaa",
+            "fullName": "Nokia",
+            "latitude": 61.480993,
+            "longitude": 23.516638
+        }
+    ]
+}

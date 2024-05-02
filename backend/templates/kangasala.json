@@ -1,0 +1,18 @@
+{
+    "unclassifiedLocationTerms": [],
+    "classifiedLocationTerms": [
+        {
+            "type": "CITY",
+            "index": 0,
+            "classified": true,
+            "code": "FI_PIRKANMAA_KANGASALA",
+            "shortName": "Kangasala",
+            "parentCountryCode": "FI",
+            "parentRegionCode": "FI_PIRKANMAA",
+            "parentRegionName": "Pirkanmaa",
+            "fullName": "Kangasala",
+            "latitude": 61.464008,
+            "longitude": 24.060771
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "unclassifiedLocationTerms": [],
+    "classifiedLocationTerms": [
+        {
+            "type": "CITY",
+            "index": 0,
+            "classified": true,
+            "code": "FI_PIRKANMAA_TAMPERE",
+            "shortName": "Tampere",
+            "parentCountryCode": "FI",
+            "parentRegionCode": "FI_PIRKANMAA",
+            "parentRegionName": "Pirkanmaa",
+            "fullName": "Tampere",
+            "latitude": 61.498150,
+            "longitude": 23.761025
+        }
+    ]
+}

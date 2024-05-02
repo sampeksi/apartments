@@ -1,0 +1,18 @@
+{
+    "unclassifiedLocationTerms": [],
+    "classifiedLocationTerms": [
+        {
+            "type": "CITY",
+            "index": 0,
+            "classified": true,
+            "code": "FI_PIRKANMAA_YLOJARVI",
+            "shortName": "Ylöjärvi",
+            "parentCountryCode": "FI",
+            "parentRegionCode": "FI_PIRKANMAA",
+            "parentRegionName": "Pirkanmaa",
+            "fullName": "Ylöjärvi",
+            "latitude": 61.549415,
+            "longitude": 23.592502
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e0f2f1; /* Set the background color similar to your theme's background */
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif; /* Ensure consistent typography */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,18 @@
+{
+    "unclassifiedLocationTerms": [],
+    "classifiedLocationTerms": [
+        {
+            "type": "CITY",
+            "index": 0,
+            "classified": true,
+            "code": "FI_PIRKANMAA_PIRKKALA",
+            "shortName": "Pirkkala",
+            "parentCountryCode": "FI",
+            "parentRegionCode": "FI_PIRKANMAA",
+            "parentRegionName": "Pirkanmaa",
+            "fullName": "Pirkkala",
+            "latitude": 61.46274,
+            "longitude": 23.637445
+        }
+    ]
+}
