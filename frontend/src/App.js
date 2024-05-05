@@ -65,7 +65,7 @@ function App() {
                 valmistunut: result.Valmistunut,
                 lunastusosuus: result.Tontin_lunastusosuus,
                 arvioitu_vuokra: parseFloat(result.arvioitu_vuokra),
-                korkotaso: parseFloat(interestRate) || 0.03 // Ensure interest rate is included
+                korkotaso: parseFloat(interestRate) / 100 || 0.03 // Ensure interest rate is included
             }))
             if (properties.length > 0) {
                 const response = await axios.post('http://localhost:8000/calculate-metrics', { properties })
